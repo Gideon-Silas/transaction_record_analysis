@@ -35,4 +35,4 @@ The objectives of this project were to:
 - Update transaction records dynamically.
 - Apply Python fundamentals to practical financial analysis scenarios.
 
-This project introduces the fundamentals of financial data analysis using Python. Although the dataset is small, the workflow reflects the basic processes used in transaction management and financial reporting. The project demonstrates how Python's built in data structures and functions simplify data organization, financial calculations, and transaction record updates. It also establishes a foundation for future financial data analysis using libraries such as NumPy, Pandas, and Matplotlib.
+This project introduces the fundamentals of financial data analysis using Python. Although the dataset is small, the workflow reflects the basic processes used in transaction management and financial reporting.
